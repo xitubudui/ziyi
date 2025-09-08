@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:12.960000,
+https://github.fxxk.dedyn.io/https://raw.githubusercontent.com/gh2022000009/mv09/1ef722232f50e339a94a5305ec4c2a32de9d7b5e/seg-0000.ts.png
+#EXTINF:0.720000,
+https://github.fxxk.dedyn.io/https://raw.githubusercontent.com/gh2022000009/mv09/edef5e425f5a5d38346af2333a12bc102248749a/seg-0001.ts.png
+#EXT-X-ENDLIST
